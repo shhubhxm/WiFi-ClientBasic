@@ -19,6 +19,6 @@ Note
 Your assignment must work for ANY http:// URL sent to the proxy.  You are only required 
 to support http text. No images required, https support is optional  
  
-## Part#2( optional) 
+### Part#2( optional) 
 1) You should be able now to easily program your ESP32 as a real proxy by 
 programming your web browser’s connection to use proxy server 192.168.4.1 
