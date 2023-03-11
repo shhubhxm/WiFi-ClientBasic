@@ -8,7 +8,7 @@ http://www.esp8266.com/viewtopic.php?f=6&t=4169
 3) Use code from Arduino development software (1.6.5), GoTo  
 i. file->examples->ESP8266Wifi->WiFiAccessPoint 
 ii. file->examples->ESP8266Wifi->WiFiClient 
-4) In the sketch window, open toolsSerialMonitor (CTRL-Shift-M) to monitor and 
+4) In the sketch window, open tools->SerialMonitor (CTRL-Shift-M) to monitor and 
 test  your code at work on ESP32 
 5) Lookup String class operations function in the 8266 arduino development kit 
 documentation. You will need this split parameters into host & URL 
